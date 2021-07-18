@@ -1,0 +1,1 @@
+export const BASE_URL = "https://api.jsonbin.io/b/60f2d3de0cd33f7437ca8471"
